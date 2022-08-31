@@ -1,0 +1,166 @@
+    1  passwd 
+    2  mkdir bin scripts projects
+    3  ls
+    4  mkdir bin
+    5  hostname
+    6  pwd
+    7  ls
+    8  ls -l 
+    9  which ls
+   10  pwd
+   11  history
+   12  history|grep cd
+   13  history | grep cd
+   14  cd assignments
+   15  pwd
+   16  cd ~/assignments
+   17  pwd
+   18  cd /home/siqitao-F22/assignments
+   19  pwd
+   20  mkdir assignments
+   21  cd assignments
+   22  pwd
+   23  git clone https:github.com/ersitntao/trgn510_assignment1.git
+   24  pwd
+   25  hostname
+   26  git clone https://github.com/ersitntao/desktop-tutorial.git
+   27  cd trgn510_assignment1
+   28  mkdir cd trgn510_assignment1
+   29  cd trgn510_assignment1
+   30  vim Readme.md
+   31  pwd
+   32  hostname
+   33  ls
+   34  ls -l
+   35  ls-a
+   36  ls -a
+   37  ls -R
+   38  ls -al
+   39  df
+   40  uname -a
+   41  free -g
+   42  cd ~
+   43  pwd
+   44  ls -a
+   45  echo $PATH
+   46  history | grep ls
+   47  echo user
+   48  ls -l
+   49  wegt https://trgn.bioinform.io/myscript.sh
+   50  ls -l
+   51  chmod 700 bin
+   52  ls -l
+   53  chmod 740 bin
+   54  ls -l
+   55  chmod 775 bin
+   56  ls -l
+   57  man cut
+   58  cd assignments
+   59  hostname
+   60  ls
+   61  cd assignments
+   62  git clone https://github.com/ersitntao/desktop-tutorial.git
+   63  git clone https://github.com/ersitntao/trgn510_assignment1.git
+   64  pwd
+   65  cd trgn510-assignment1
+   66  cd trgn510_assignment1
+   67  vim Readme.md
+   68  pwd
+   69  history
+   70  vim Readme.md
+   71  git add . -A
+   72  git clone https://github.com/ersitntao/trgn510_assignment1.git
+   73  cd trgn510_assignment1
+   74  pwd
+   75  vim Readme.md
+   76  pwd
+   77  hostname
+   78  cd trgn510_assignment1
+   79  ls
+   80  cd assignments
+   81  ls
+   82  cd trgn510_assignment1
+   83  pwd
+   84  ls
+   85  cd assignments
+   86  cd ..
+   87  pwd
+   88  ls -t
+   89  ls -a
+   90  ls -R
+   91  pwd
+   92  cd trgn510_assignment1
+   93  git add . -A
+   94  git clone https://github.com/ersitntao/trgn510_assignment1.git
+   95  cd trgn510_assignment1
+   96  git add . -A
+   97  git commit -m "First commit"
+   98  git config --global user.siqitao@usc.edu
+   99   git config --global user.erstintao
+  100  git commit -m "First commit"
+  101  hostname
+  102  pwd
+  103  cd assignments
+  104  pwd
+  105  git clone https://github.com/ersitntao/trgn510_assignment1.git
+  106  cd trgn510_assignment1
+  107  pwd
+  108  vim Readme.md
+  109  pwd
+  110  cd assignments/trgn510_assignment1
+  111  pwd
+  112  ls
+  113  cd problem2
+  114  ls
+  115  vim bashrc_sample
+  116  source bashrc_sample 
+  117  pwd
+  118  source ./
+  119  source ./bashrc_sample 
+  120  cp ~/assignments/trgn510_assignment1/problem2/bashrc_sample ~/.bashrc
+  121  logout
+  122  vim .bashrc
+  123  source ~/.bashrc
+  124  logout
+  125  ~/.bash_profile
+  126  vim ~/.bash_profile
+  127  logout
+  128  source ~/.bash_profile
+  129  mv .bash_profile .profile
+  130  logout
+  131  vim /etc/profile
+  132  logout
+  133  pwd
+  134  hostname
+  135  cd ~/assignments/trgn510_assignment1/problem2
+  136  cp /home/data/vimrc ~/assignments/trgn510_assignment1/problem2/
+  137  vim vimrc
+  138  cp vimrc ~/.vimrc
+  139  vi .vimrc
+  140  vi
+  141  cd ..
+  142  pwd
+  143  ls
+  144  mkdir problem3
+  145  cd problem3
+  146  cd ..
+  147  mv problem3 problem 3
+  148  mv problem3 problem4
+  149  ls
+  150  cd ~
+  151  mkdir ~/assignments/trgn_assignment1/problem 3/
+  152  cd siqitao-F22@trgn trgn510_assignment1
+  153  cd assignments/trgn510_assignment1
+  154  mkdir problem\ 3
+  155  ls
+  156  ls -l
+  157  pwd
+  158  cd problem 3
+  159  ls
+  160  pwd
+  161  cd ..
+  162  cd trgn510_assginment1/problem3/
+  163  ls
+  164  pwd
+  165  history > My history.txt
+  166  history > My\ history.txt

@@ -1,0 +1,6 @@
+# My processes
+root     259000   2370  0 00:08 ?        00:00:00 sshd: siqitao-F22 [priv]
+siqitao+ 259018 259000  0 00:08 ?        00:00:00 sshd: siqitao-F22@pts/2
+siqitao+ 259019 259018  0 00:08 pts/2    00:00:00 -sh
+siqitao+ 259644 259019  0 00:20 pts/2    00:00:00 ps -ef
+siqitao+ 259645 259019  0 00:20 pts/2    00:00:00 grep --color=auto siqitao
